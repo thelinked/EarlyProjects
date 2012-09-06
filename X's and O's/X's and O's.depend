@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1248106560 source:c:\programming\projects\x's and o's\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"Timer.h"
+	"Table.h"
+	"Graphics.h"
+
+1247799441 c:\programming\projects\x's and o's\timer.h
+
+1247789389 source:c:\programming\projects\x's and o's\timer.cpp
+	"SDL/SDL.h"
+	"timer.h"
+	<string>
+
+1248106560 c:\programming\projects\x's and o's\table.h
+
+1248106595 source:c:\programming\projects\x's and o's\table.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"table.h"
+	"timer.h"
+	"graphics.h"
+	<string>
+
+1248041601 c:\programming\projects\x's and o's\graphics.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
+1248041601 source:c:\programming\projects\x's and o's\graphics.cpp
+	"Graphics.h"
+

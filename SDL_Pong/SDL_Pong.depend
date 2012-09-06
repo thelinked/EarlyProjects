@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1249926251 source:c:\programming\projects\sdl_pong\graphics.cpp
+	"Graphics.h"
+
+1248041601 c:\programming\projects\sdl_pong\graphics.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
+1250117391 source:c:\programming\projects\sdl_pong\timer.cpp
+	"SDL/SDL.h"
+	"timer.h"
+	<string>
+
+1279576109 c:\programming\projects\sdl_pong\timer.h
+
+1257716104 source:c:\programming\projects\sdl_pong\main.cpp
+	"SDL/SDL.h"
+	"Graphics.h"
+	"Timer.h"
+	"Ball.h"
+	"Bat.h"
+	"Menu.h"
+
+1279576109 c:\programming\projects\sdl_pong\bat.h
+
+1250632930 source:c:\programming\projects\sdl_pong\bat.cpp
+	"SDL/SDL.h"
+	"graphics.h"
+	"Bat.h"
+
+1279576109 c:\programming\projects\sdl_pong\ball.h
+	<vector>
+	<cmath>
+
+1250632930 source:c:\programming\projects\sdl_pong\ball.cpp
+	"SDL/SDL.h"
+	"Ball.h"
+	"graphics.h"
+	"time.h"
+
+1249849650 source:c:\programming\projects\sdl_pong\splash_screen.cpp
+	"SDL/SDL.h"
+	"graphics.h"
+	"timer.h"
+	"Splash_Screen.h"
+
+1249848966 c:\programming\projects\sdl_pong\splash_screen.h
+
+1279576109 c:\programming\projects\sdl_pong\menu.h
+
+1250632449 source:c:\programming\projects\sdl_pong\menu.cpp
+	"SDL/SDL.h"
+	"graphics.h"
+	"timer.h"
+	"Menu.h"
+
+1249857987 source:c:\programming\projects\sdl_pong\window.cpp
+	"SDL/SDL.h"
+	"Window.h"
+
+1249857987 c:\programming\projects\sdl_pong\window.h
+

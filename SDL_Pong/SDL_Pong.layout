@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Ball.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="678" topLine="24" />
+	</File>
+	<File name="Ball.h" open="0" top="0" tabpos="0">
+		<Cursor position="1158" topLine="13" />
+	</File>
+	<File name="Bat.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="3289" topLine="40" />
+	</File>
+	<File name="Bat.h" open="0" top="0" tabpos="0">
+		<Cursor position="1131" topLine="7" />
+	</File>
+	<File name="Graphics.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="578" topLine="0" />
+	</File>
+	<File name="Menu.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="5400" topLine="154" />
+	</File>
+	<File name="Menu.h" open="0" top="0" tabpos="3">
+		<Cursor position="591" topLine="0" />
+	</File>
+	<File name="Timer.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="1793" topLine="63" />
+	</File>
+	<File name="Timer.h" open="0" top="0" tabpos="0">
+		<Cursor position="735" topLine="0" />
+	</File>
+	<File name="graphics.h" open="0" top="0" tabpos="0">
+		<Cursor position="654" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="1546" topLine="57" />
+	</File>
+</CodeBlocks_layout_file>

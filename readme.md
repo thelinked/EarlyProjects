@@ -3,7 +3,7 @@ Early Projects
 
 About
 -------
-We all have to start learning somewhere. These projects were the first substantial programming projects I ever made. They are both written in C++ and use SDL. Everything here can be considered to me under the Apache License Version 2.0.
+We all have to start learning somewhere. These projects were my first substantial programming projects. They are both written in C++ and use SDL. Everything here can be considered to be under the Apache License Version 2.0.
 
 
 Building
